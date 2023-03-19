@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ConrolWork\bin\Debug\net6.0\ConrolWork.exe
+C:\Users\Admin\Desktop\ConrolWork\bin\Debug\net6.0\ConrolWork.deps.json
+C:\Users\Admin\Desktop\ConrolWork\bin\Debug\net6.0\ConrolWork.runtimeconfig.json
+C:\Users\Admin\Desktop\ConrolWork\bin\Debug\net6.0\ConrolWork.dll
+C:\Users\Admin\Desktop\ConrolWork\bin\Debug\net6.0\ConrolWork.pdb
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.dll
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\refint\ConrolWork.dll
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.pdb
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ConrolWork.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ConrolWork\obj\Debug\net6.0\ref\ConrolWork.dll
